@@ -1,0 +1,22 @@
+{
+  "name": "example-travis-node",
+  "version": "1.0.0",
+  "description": "Node js involving travis ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pybae/example-travis-node"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pybae/example-travis-node/issues"
+  },
+  "homepage": "https://github.com/pybae/example-travis-node",
+  "dependencies": {
+    "lodash": "^3.7.0"
+  }
+}
